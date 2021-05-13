@@ -1,4 +1,3 @@
-#! -*- coding:utf-8 -*-
 import time
 from json import loads as json_loads
 from os import path as os_path, getenv
